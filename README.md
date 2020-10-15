@@ -8,6 +8,8 @@ Base on this project, I studied how to use ReactJS, Redux, ReactRouter, Testing 
 ### Storage: Firebase
 ### [Demo](https://react-my-burger-9caa1.web.app/)
 
+![image](https://github.com/hoangeiu/burger-builder-hook/blob/main/src/assets/images/burger-logo.png?raw=true)
+
 
 ## Available Scripts
 
