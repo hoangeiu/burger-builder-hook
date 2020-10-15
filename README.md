@@ -4,7 +4,7 @@ In this project, I build an online order burger and let people build their best 
 
 Base on this project, I studied how to use ReactJS, Redux, ReactRouter, Testing with ReactJS, Hook and how to use Firebase as a realtime database.
 
-### Tech: ReactJS, HTML, CSS
+### Tech: ReactJS, Redux HTML, CSS, React Router, Hook and others.
 ### Storage: Firebase
 ### [Demo](https://react-my-burger-9caa1.web.app/)
 
