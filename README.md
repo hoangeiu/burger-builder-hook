@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build follow [Udemy React Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
+In this project, I build an online order burger and let people build their best burgers. After that, they will be processed to pay for this burger. They also need to fill a form to ship the burger to them.
+
+Base on this project, I studied how to use ReactJS, Redux, ReactRouter, Testing with ReactJS, Hook and how to use Firebase as a realtime database.
+
+### Tech: ReactJS, HTML, CSS
+### Storage: Firebase
+### [Demo](https://react-my-burger-9caa1.web.app/)
+
 
 ## Available Scripts
 
