@@ -1,3 +1,9 @@
+Ở project này, mình dựa theo khóa học [Udemy React Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) để xây dựng một trang web cho phép khách hàng đặt bánh burger bằng cách khách hàng có thể tùy ý các thành phần vào bánh (thịt, cheese, rau ...) sau đó được dẫn sang các trang thanh toán. 
+Trang web cũng bao gồm các trang đăng nhập và lưu lịch sử đặt bánh.
+Mình học được cách sử dụng ReactJS, Redux, ReactRouter, một chút kỹ thuật test với ReactJS và sử dụng Firebase để lưu dữ liệu thời gian thực.
+
+### [Demo](https://react-my-burger-9caa1.web.app/)
+
 This project was build follow [Udemy React Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 In this project, I build an online order burger and let people build their best burgers. After that, they will be processed to pay for this burger. They also need to fill a form to ship the burger to them.
